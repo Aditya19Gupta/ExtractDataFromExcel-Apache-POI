@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 17
+Implementation-Title: ReadDataFromExcel-ApachePOI
+Implementation-Version: 3.1.3
+Created-By: Maven Integration for Eclipse
+
